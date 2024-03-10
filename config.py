@@ -13,13 +13,13 @@ API_HASH = os.environ.get("API_HASH", "")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "VJ_Botz") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "Cineverse_Movies_7") 
 
              # Don't Remove Credit @VJ_Botz
              # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
              # Ask Doubt on telegram @KingVJ01
 
-DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
+DB_NAME = os.environ.get("DB_NAME", "cluster0")     
 
 DB_URL = os.environ.get("DB_URL", "")
  

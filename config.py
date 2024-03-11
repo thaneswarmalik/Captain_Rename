@@ -11,7 +11,7 @@ API_ID = os.environ.get("API_ID", "24106665")
 
 API_HASH = os.environ.get("API_HASH", "efd96d849629b8426369b718913263b9")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6254275801:AAFiuCrZp4rq9D5dqhFa8iuo8Xw_-bPA9Mg") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "Cineverse_Movies_7") 
 
